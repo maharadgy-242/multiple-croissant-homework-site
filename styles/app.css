@@ -43,3 +43,9 @@ img {
   margin-left: 5px;
   color: rgb(100, 151, 33);
 }
+
+span {
+  text-align: center;
+  font-size: 22px;
+  color: red;
+}
