@@ -1,0 +1,45 @@
+body {
+  background: rgb(248, 228, 213);
+}
+
+h1 {
+  text-align: center;
+  font-size: 48px;
+  color: brown;
+}
+
+h2 {
+  text-align: center;
+  color: rgb(71, 10, 10);
+}
+
+p {
+  margin: 20px 300px;
+  font-size: 18px;
+}
+
+a {
+  margin-left: 20px;
+  color: rgb(210, 17, 228);
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 500px;
+}
+
+.links {
+  display: block;
+  text-align: center;
+}
+
+.contact-us {
+  display: block;
+  text-align: center;
+}
+
+.contact-mail {
+  margin-left: 5px;
+  color: rgb(100, 151, 33);
+}
